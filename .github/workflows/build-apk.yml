@@ -46,7 +46,7 @@ jobs:
             npx cap sync android
           else
             echo "Installing Capacitor & Android platform..."
-            npm install @capacitor/core @capacitor/cli @capacitor/android
+            npm install @capacitor/core@7 @capacitor/cli@7 @capacitor/android@7
             npx cap init "Top V2Ray VPN" "com.v2ray.vpn.hub" --web-dir dist
             npx cap add android
             npx cap sync android
