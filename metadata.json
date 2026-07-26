@@ -1,0 +1,6 @@
+{
+  "name": "Top V2Ray VPN",
+  "description": "High-performance V2Ray VPN server manager, config generator, live server ping test, and subscription link builder for VLESS, VMess, Trojan & Shadowsocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
